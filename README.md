@@ -31,6 +31,8 @@ The project follows the Medallion Architecture, which consists of three layers:
 - Builds analytical data models using Fact and Dimension structures.
 - Organizes data into a Star Schema for easier reporting and analysis.
 - Provides business-ready datasets for analytical queries.
+- <img width="937" height="526" alt="Screenshot 2026-11-25 191416" src="https://github.com/user-attachments/assets/8f8e938d-5c45-47ce-87fc-a369cc41bb5d" />
+
 
 ## 🔄 ETL Process
 
